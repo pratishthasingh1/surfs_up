@@ -3,8 +3,8 @@ An analysis was done to determine the viability of a surf shop. A data analyst p
 
 # Results
 From the above screenshots of the June statistics and December statistics, it can be said that:
-[june]!(https://github.com/pratishthasingh1/surfs_up/blob/master/june.png?raw=true)
-[dec]!(https://github.com/pratishthasingh1/surfs_up/blob/master/december.png)
+![june](https://github.com/pratishthasingh1/surfs_up/blob/master/june.png?raw=true)
+![dec](https://github.com/pratishthasingh1/surfs_up/blob/master/december.png)
 * Weather stays pretty stable in Oahu (mean during June: 75degrees, during December: 71degrees). 
 * Ice cream shop may otherwise be a silly idea if it weren't in a place where the temperature generally never drops below 55 degrees. In Oahu, the temperature doesn't get lower than 56 degrees during either of those months. 
 * There are less temperature entries in December than June, possibly due to less daylight hours during the day?
